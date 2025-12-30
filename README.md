@@ -90,4 +90,3 @@ Bu proje **MIT** lisansı ile lisanslanmıştır.
 
 ---
 
-**Sizin için başka bir detay eklememi ister misiniz?** (Örneğin kurulum kısmına görsel eklemek için placeholder alanları vb.)
